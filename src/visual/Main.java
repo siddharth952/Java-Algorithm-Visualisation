@@ -1,8 +1,9 @@
 package visual;
-
 import java.util.Arrays;
 import algo.*;
 import core.SortAlgorithm;
+
+
 
 public class Main {
 
@@ -16,13 +17,6 @@ public class Main {
         };
 
         new LaunchFrame(Arrays.asList(algos));
-
-
-
-
-
-
-
 
     }
 }
